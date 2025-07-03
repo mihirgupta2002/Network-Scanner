@@ -9,4 +9,4 @@ All you need to know about the project.
 
 HOW TO RUN IT:
 
-python3 wrapperScript.py <NETWORK> <NETMASK>
+python3 wrapperScript.py SUBNET SUBNETMASK
